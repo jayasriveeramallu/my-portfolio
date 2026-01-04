@@ -13,9 +13,7 @@ const _sourceSerif_4 = V0_Font_Source_Serif_4({ subsets: ['latin'], weight: ["20
 
 export const metadata: Metadata = {
   title: "Jaya Sri Veeramallu | Frontend Engineer",
-  description:
-    "Frontend Developer specializing in React, Next.js, and Core Web Vitals optimization. Building high-performance web applications.",
-  generator: "v0.app",
+  description: "Frontend Developer specializing in React, Next.js, and Core Web Vitals optimization. Building high-performance web applications.",
   icons: {
     icon: [
       {

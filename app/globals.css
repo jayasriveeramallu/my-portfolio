@@ -53,6 +53,8 @@
   --sidebar-accent-foreground: rgba(234, 236, 238, 1);
   --sidebar-border: rgba(40, 44, 48, 1);
   --sidebar-ring: rgba(90, 200, 190, 0.45);
+
+  --radius:8px
 }
 
 
