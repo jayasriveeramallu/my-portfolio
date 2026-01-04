@@ -1,0 +1,31 @@
+{
+  "awards": [
+    {
+      "id": "pratibha-award",
+      "title": "Pratibha Award",
+      "issuer": "Government of Andhra Pradesh",
+      "year": 2018,
+      "featured": true
+    },
+    {
+      "id": "sih-finalist",
+      "title": "Smart India Hackathon Finalist",
+      "year": 2023,
+      "featured": true
+    },
+    {
+      "id": "topper-award",
+      "title": "Academic Topper Award",
+      "issuer": "JNTU-GV College of Engineering",
+      "year": "2022–2023, 2023–2024",
+      "featured": false
+    },
+    {
+      "id": "top-2-rank",
+      "title": "Ranked Top 2 in B.Tech Program",
+      "issuer": "JNTU-GV College of Engineering",
+      "year": 2024,
+      "featured": false
+    }
+  ]
+}

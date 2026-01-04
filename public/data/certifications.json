@@ -1,0 +1,28 @@
+{
+  "certifications": [
+    {
+      "id": "joy-of-computing",
+      "title": "The Joy of Computing Using Python",
+      "issuer": "NPTEL",
+      "year": 2023
+    },
+    {
+      "id": "data-science",
+      "title": "Data Science for Engineers",
+      "issuer": "NPTEL",
+      "year": 2023
+    },
+    {
+      "id": "aws-ml",
+      "title": "AWS Academy Machine Learning Foundations",
+      "issuer": "AWS",
+      "year": 2023
+    },
+    {
+      "id": "html5-udemy",
+      "title": "Learn HTML5 In-Depth with Real-World Examples",
+      "issuer": "Udemy",
+      "year": 2023
+    }
+  ]
+}

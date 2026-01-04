@@ -1,0 +1,18 @@
+{
+  "name": "Jaya Sri Veeramallu",
+  "role": "Frontend Developer",
+  "title": "Frontend Engineer | Performance & React Specialist",
+  "summary": "Frontend Developer with 1+ year of experience in React.js and Next.js, specializing in performance optimization, responsive UI development, and SEO-driven applications. Delivered measurable improvements in Core Web Vitals and user engagement through scalable frontend solutions.",
+  "email": "jayasriveeramallu@gmail.com",
+  "phone": "+91-9392759375",
+  "location": "Hyderabad, India",
+  "links": {
+    "github": "https://www.github.com/jayasriveeramallu",
+    "linkedin": "https://www.linkedin.com/in/jaya-sri-veeramallu/",
+    "resume": "/resume.pdf"
+  },
+  "cta": {
+    "primary": "View My Work",
+    "secondary": "Download Resume"
+  }
+}

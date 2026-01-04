@@ -1,0 +1,54 @@
+{
+  "experiences": [
+    {
+      "id": "blox-core",
+      "company": "Blox",
+      "role": "Frontend Engineer",
+      "period": "July 2024 – Present",
+      "type": "full-time",
+      "location": "Remote",
+      "projects": [
+        {
+          "name": "Core Website Development (blox.xyz)",
+          "technologies": ["Next.js", "React.js", "JavaScript", "HTML", "CSS", "Git"],
+          "highlights": [
+            "Developed and enhanced the blox website by building high-performance, responsive UI components for Homepage and Property Detail Pages (PDP)",
+            "Led major performance optimization initiatives, improving Core Web Vitals by reducing LCP from 8s to 3.5s and achieving CLS < 0.1 across key pages",
+            "Redesigned the PDP gallery by replacing a legacy carousel with a performance-optimized layout, bringing LCP under 2.5 seconds",
+            "Integrated rich media features including YouTube Shorts and property videos with interactive actions (like, save)",
+            "Revamped homepage property sections and integrated Blogs and Press Mentions to improve content discoverability and SEO visibility",
+            "Implemented interactive tools such as an EMI Calculator and enhanced search page filters"
+          ],
+          "metrics": {
+            "lcpImprovement": "8s → 3.5s",
+            "cls": "< 0.1",
+            "pdpLcp": "< 2.5s"
+          }
+        },
+        {
+          "name": "Campaign Microsites Development",
+          "technologies": ["Next.js", "React.js", "JavaScript", "HTML", "CSS", "Git"],
+          "highlights": [
+            "Developed and delivered 20+ campaign microsites with responsive layouts and reusable UI components",
+            "Implemented performance-first development practices across microsites with fast load times and cross-browser compatibility",
+            "Collaborated with design and marketing teams to translate requirements into pixel-perfect, production-ready interfaces",
+            "Optimized asset loading and component rendering to improve user engagement",
+            "Ensured consistent branding, accessibility, and code quality by following modern frontend best practices"
+          ]
+        },
+        {
+          "name": "Performance Optimization (Core Web Vitals)",
+          "technologies": ["Next.js", "JavaScript", "Lighthouse", "Chrome DevTools"],
+          "highlights": [
+            "Led end-to-end Core Web Vitals optimization across all user journeys, driving site-wide performance and UX improvements",
+            "Identified and resolved Cumulative Layout Shift (CLS) issues by refactoring unstable rendering logic",
+            "Improved Largest Contentful Paint (LCP) by replacing legacy components with performance-optimized layouts",
+            "Reduced PDP load time from 8 seconds to 3.5 seconds through optimized asset delivery and lazy loading",
+            "Optimized homepage performance while supporting rich media and video integrations",
+            "Monitored performance using Lighthouse and browser tooling to maintain compliance with Google Core Web Vitals standards"
+          ]
+        }
+      ]
+    }
+  ]
+}

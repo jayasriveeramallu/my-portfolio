@@ -1,0 +1,31 @@
+{
+  "projects": [
+    {
+      "id": "ai-training-system",
+      "title": "AI-Based IT Training System",
+      "subtitle": "Smart India Hackathon 2023",
+      "description": "Designed and implemented an AI-driven IT training platform that dynamically generates personalized learning paths based on individual student knowledge levels.",
+      "technologies": ["Python", "MERN Stack", "Generative AI", "Machine Learning", "Flask"],
+      "highlights": [
+        "Built a system that dynamically generates personalized learning paths",
+        "Integrated Generative AI (Gemini API) to customize course content and recommendations in real time",
+        "Achieved high accuracy in personalized content delivery, improving learning relevance and user engagement"
+      ],
+      "link": "https://youtu.be/7FYU756RkEE",
+      "featured": true
+    },
+    {
+      "id": "parsons-problem",
+      "title": "Parsons Problem Generator",
+      "subtitle": "Academic Project",
+      "description": "Developed a system to generate Parsons problems categorized by difficulty levels to enhance logic-based learning.",
+      "technologies": ["Python", "React.js", "Problem Solving"],
+      "highlights": [
+        "Generated Parsons problems categorized into easy, medium, and hard difficulty levels",
+        "Shifted assessment focus from syntax memorization to logical reasoning using automated test cases",
+        "Designed an interactive frontend for problem creation and evaluation"
+      ],
+      "featured": false
+    }
+  ]
+}

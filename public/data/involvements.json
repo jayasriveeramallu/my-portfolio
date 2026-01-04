@@ -1,0 +1,18 @@
+{
+  "involvements": [
+    {
+      "id": "ideathon-coord",
+      "role": "Ideathon Event Coordinator",
+      "organization": "Annual Technical Fest, JNTU-GV",
+      "description": "Managed event planning, coordination, and execution",
+      "year": "2023–2024"
+    },
+    {
+      "id": "innoxpo-support",
+      "role": "Technical Support Coordinator",
+      "organization": "InnoExpo 360 Hackathon (JNTU-GV)",
+      "description": "Provided technical support for hackathon participants",
+      "year": "2023"
+    }
+  ]
+}

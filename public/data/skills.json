@@ -1,0 +1,13 @@
+{
+  "frontend": ["React.js", "Next.js", "JavaScript", "TypeScript", "HTML5", "CSS3", "Tailwind CSS"],
+  "performance": [
+    "Core Web Vitals (LCP, CLS)",
+    "Performance Optimization",
+    "Lazy Loading",
+    "Asset Optimization",
+    "Lighthouse",
+    "Chrome DevTools"
+  ],
+  "programming": ["JavaScript", "Python", "C", "C++"],
+  "tools": ["Git", "Chrome DevTools", "Lighthouse", "LLVM/Clang", "Next.js"]
+}

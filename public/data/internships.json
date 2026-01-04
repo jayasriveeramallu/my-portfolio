@@ -1,0 +1,33 @@
+{
+  "internships": [
+    {
+      "id": "iit-hyderabad",
+      "institution": "IIT Hyderabad",
+      "position": "Research Intern - Compilers",
+      "period": "Jan 2024 – Jun 2024",
+      "location": "Hyderabad",
+      "project": "Code Compliance & Static Analysis using Clang/LLVM",
+      "technologies": ["C++", "Clang", "Clang-Tidy", "LLVM", "Git"],
+      "highlights": [
+        "Designed and implemented custom Clang/LLVM analysis passes to identify non-compliant and inefficient C/C++ code patterns",
+        "Leveraged Clang AST matchers and Clang-Tidy checks to enforce coding standards",
+        "Performed benchmarking and performance evaluation of compiler passes across multiple codebases"
+      ]
+    },
+    {
+      "id": "iit-ropar",
+      "institution": "IIT Ropar",
+      "position": "Research Intern - Image Processing",
+      "period": "May 2023 – Jul 2023",
+      "location": "Ropar",
+      "project": "Aesthetic Image Enhancement & Green Spill Removal",
+      "technologies": ["Python", "Image Processing", "Computer Vision"],
+      "highlights": [
+        "Conducted research on DSLR image enhancement to improve visual quality, color balance, and contrast",
+        "Implemented and evaluated multiple green spill removal algorithms for green screen backgrounds",
+        "Applied color space transformations (RGB, HSV, LAB) to suppress color spill while preserving natural edges",
+        "Compared algorithm performance based on visual quality, artifact reduction, and computational efficiency"
+      ]
+    }
+  ]
+}
